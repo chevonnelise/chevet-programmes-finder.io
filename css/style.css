@@ -5,7 +5,6 @@ body {
 }
 
 .offcanvas {
-    z-index: 314161;
     background-color:rgb(224, 252, 255);
 }
 
@@ -37,7 +36,7 @@ body {
     overflow-y: scroll;
     margin-top: 0px;
     margin-bottom: 0px;
-    background-color: rgb(222, 254, 255);
+    background-color: transparent;
     background-blend-mode: color-dodge;
 }
 
