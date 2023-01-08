@@ -23,7 +23,7 @@
 <li>Javascript</li>
 <li>Figma for wireframe and UI design</li>
 <li>Leaflet documentation for map</li>
-<li>Bootstrap version 5.3 for layout and mobile-responsiveness</li>
+<li><a href="https://getbootstrap.com/">Bootstrap version 5.3</a> for layout and mobile-responsiveness</li>
 <li>Google fonts for typography</li>
 <li>Fontawesome for icons</li>
 <li>GeoJSON files to plot geographical coordinates of programme locations</li>
