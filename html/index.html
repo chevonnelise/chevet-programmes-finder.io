@@ -31,16 +31,17 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
 
     <!-- css -->
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/style2.css">
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/style2.css">
 
     <title>Mental Well-being Programmes Finder in Singapore</title>
 </head>
 
 <body>
-    <div class="container">
-        <!-- navbar -->
-        <nav class="navbar bg-body-tertiary fixed-top">
+
+    <!-- navbar -->
+    <div class="sticky-top">
+        <nav class="navbar bg-body-tertiary ">
             <div class="container-fluid">
                 <a class="navbar-brand text-center" href="html/index.html"><a><i
                             class="fa-solid fa-heart-pulse"></i>Take
@@ -73,26 +74,35 @@
                     </div>
             </div>
         </nav>
-        <div class="map-container">
-            <div id="map"></div>
-        </div>
+    </div>
+
+    <div class="map-container">
+        <div id="map"></div>
     </div>
 
     <!-- Button trigger modal -->
-    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
-        Launch demo modal
+    <button type="button" class="btn" style="color:dodgerblue;" data-bs-toggle="modal" data-bs-target="#search">
+        <a>Explore</a>
     </button>
 
+
     <!-- Modal -->
-    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal fade" id="search" tabindex="-1" aria-labelledby="searchLabel" aria-hidden="true">
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h1 class="modal-title fs-5" id="exampleModalLabel">Modal title</h1>
+                    <h1 class="modal-title fs-5" id="exampleModalLabel">Available programmes</h1>
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
-                    ...
+                    <div id="search-container">
+                        <input type="text" id="search-terms">
+                        <button id="search-btn"><i class="fa-solid fa-magnifying-glass"
+                                style="color:rgb(93, 93, 93); background-color: transparent;"></i></button>
+                        <div id="search-results">
+                            <div id="search-results-list"></div>
+                        </div>
+                    </div>
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
@@ -115,7 +125,7 @@
     <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster-src.js"></script>
 
     <!-- js scripts -->
-    <script src="scripts/map.js"></script>
+    <script src="../scripts/map.js"></script>
 </body>
 
 </html>

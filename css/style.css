@@ -6,11 +6,11 @@ body {
 
 .offcanvas {
     z-index: 314161;
-    background-color:rgb(224, 224, 255);
+    background-color:rgb(224, 252, 255);
 }
 
 .navbar {
-    background-color: rgb(189, 250, 250) !important;
+    background-color: rgb(224, 252, 255) !important;
 }
 
 #map {
@@ -19,7 +19,7 @@ body {
 
 .map-container {
     /* relative position can absolutely position search container by coordinates */
-    position: relative;
+    /* position: relative; */
     width: auto;
     height: 70vh;
     overflow: scroll;
@@ -27,9 +27,9 @@ body {
 
 #search-container {
     position: relative;
-    top: 10px; /* 12px from the top */
-    left: 5px; /* 5px from the left */ 
-    z-index: 314161;
+    top: 10px; /* 10px from the top */
+    left: 15px; /* 15px from the left */ 
+    z-index: 320000;
     padding: 6px;
     background-color:rgb(255,255,255, 0.5); /* opacity 50% */
 }
@@ -40,4 +40,10 @@ body {
     margin-bottom: 0px;
     background-color: rgb(222, 254, 255);
     background-blend-mode: color-dodge;
+}
+
+#search-btn {
+    background-color: rgb(179, 195, 248);
+    color:white;
+    border-radius: 10px;
 }
