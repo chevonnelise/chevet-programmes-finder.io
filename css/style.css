@@ -14,24 +14,23 @@ body {
 }
 
 #map {
-    height: 70vh;
+    height: 100vh;
 }
 
 .map-container {
     /* relative position can absolutely position search container by coordinates */
     /* position: relative; */
     width: auto;
-    height: 70vh;
-    overflow: scroll;
+    height: 100vh;
 }
 
 #search-container {
     position: relative;
-    top: 10px; /* 10px from the top */
-    left: 15px; /* 15px from the left */ 
-    z-index: 320000;
-    padding: 6px;
-    background-color:rgb(255,255,255, 0.5); /* opacity 50% */
+    top: 1px; /* 10px from the top */
+    left: 50px; /* 15px from the left */ 
+    z-index: 300000;
+    padding: 3px;
+    /* background-color:rgb(255,255,255, 0.5); opacity 50% */
 }
 
 #search-results {
@@ -43,7 +42,19 @@ body {
 }
 
 #search-btn {
-    background-color: rgb(179, 195, 248);
-    color:white;
-    border-radius: 10px;
+    color:rgb(255, 255, 255);
+    background-color:rgb(92, 123, 234);
+    border-color: rgb(92, 123, 234);
+    border-radius: 5px;
 }
+
+#modal-container {
+    float:left;
+    left: 15px;
+    top:3px;
+    z-index: 250000;
+}
+
+.button {
+    float: left;
+  }

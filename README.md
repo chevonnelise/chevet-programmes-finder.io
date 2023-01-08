@@ -6,6 +6,9 @@
 ## UI/UX Design
 <p>This two page app website was designed to be mobile-responsive so that users can easily access it on-the-go and quickly reach out to someone in Singapore and seek help for their/loved ones' mental well-being.</p>
 
+## Wireframe
+
+
 ## Features
 <p>This two page app website consists of 1) a 'Start' page with map displaying all the mental well-being programmes available in Singapore, 2) an offcanvas navbar that links to a 'Need a listening ear?' page with a list of hotlines to call.</p>
 
@@ -13,10 +16,10 @@
 
 <p>2) From the offcanvas navbar, users can click on the 'Need a listening ear?' link and quickly access the list of hotlines to call e.g. Crisis and Suicide Prevention.</p>
 
-<h3>Typography</h3>
+## Typography
 <p>The 'Raleway' font was chosen to provide a friendly-looking look and feel.</p>
 
-<h3>Resources</h3>
+## Resources
 <ol>
 <li>HTML</li>
 <li>CSS</li>

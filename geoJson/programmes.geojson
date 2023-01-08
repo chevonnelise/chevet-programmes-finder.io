@@ -1,0 +1,1183 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "298 Tiong Bahru Rd, #18-01, #19-01 Central Plaza, Singapore 168730",
+          "Service Provider": "Social Service Institute (SSI)",
+          "Service/Programme(s)": "Applied Suicide Intervention Skills Training (ASIST)"
+        },
+        "geometry": {
+          "coordinates": [
+            103.82806406375494,
+            1.2862868828030116
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "10 Cantonment Close #01-01 Singapore 080010",
+          "Service Provider": "Samaritans of Singapore (SOS)",
+          "Service/Programme(s)": "Crisis Support and Counselling; Suicide Intervention Skills Workshop;  Local Outreach to Suicide Survivors (LOSS); Healing Bridge; Healing Within; ",
+          "Contact no.": "1767 (24 hours)",
+          "Email": "(Suicide Intervention Skills Workshop) externaltraining@sos.org.sg; (Healing Bridge, Healing Within) hb@sos.org.sg "
+        },
+        "geometry": {
+          "coordinates": [
+            103.83883420046169,
+            1.2747225532905873
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "603 Hougang Ave 4 #01-221 Singapore 530603",
+          "Service Provider": "Bethesda C.A.R.E Centre",
+          "Service/Programme(s)": "CAN3",
+          "Contact no.": "6340 4161",
+          "Email": "admin@bcare.org.sg"
+        },
+        "geometry": {
+          "coordinates": [
+            103.8860350190086,
+            1.3715042606809789
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "6 Woodlands Square #03-01, Woods Square Tower 2 Singapore 737737",
+          "Service Provider": "Care Corner Singapore Ltd",
+          "Service/Programme(s)": "Care Corner Mental Health Department (INSIGHT)",
+          "Contact no.": "6978 4217",
+          "Email": "insight@carecorner.org; ccs@carecorner.org.sg"
+        },
+        "geometry": {
+          "coordinates": [
+            103.7858010824591,
+            1.4352219536337998
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "*SCAPE 2 Orchard Link #05-05 Singapore 237978",
+          "Service Provider": "Institute of Mental Health",
+          "Service/Programme(s)": "Community Health Assessment Team (CHAT)",
+          "Contact no.": "6493 6500 / 6493 6501",
+          "Email": "chat@mentalhealth.sg"
+        },
+        "geometry": {
+          "coordinates": [
+            103.8358905452593,
+            1.300840565630466
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "559 Bukit Timah Road #01-02 King’s Arcade Singapore 269695",
+          "Service Provider": "Adam Road Medical Centre",
+          "Service/Programme(s)": "Child and Adolescent Psychiatric Unit",
+          "Contact no. ": "6466 7777 ",
+          "Email": "nm@arh.com.sg"
+        },
+        "geometry": {
+          "coordinates": [
+            103.81071726787172,
+            1.3234759132727731
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "Institute of Mental Health Buangkok Green Medical Park, 10 Buangkok View, Sunrise Wing, Blk 3, Basement 1 Singapore 539747",
+          "Service Provider": "Institute of Mental Health",
+          "Service/Programme(s)": "Child Guidance Clinic, IMH",
+          "Contact no.": "6389 2000 / 6389 2222 (24 hours)"
+        },
+        "geometry": {
+          "coordinates": [
+            103.88532066106569,
+            1.3826328971240116
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "Health Promotion Board Building, 3 Second Hospital Avenue, #03-01 Singapore 168937",
+          "Service Provider": "Institute of Mental Health",
+          "Service/Programme(s)": "Child Guidance Clinic, HPB",
+          "Contact no.": "6389 2000 / 6389 2222 (24 hours)"
+        },
+        "geometry": {
+          "coordinates": [
+            103.83851899400236,
+            1.279727834386577
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "Novena Medical Centre 10 Sinaran Drive #09-21/22/23 Singapore 307506",
+          "Service Provider": "Promises Healthcare Pte Ltd",
+          "Service/Programme(s)": "Child Psychology",
+          "Contact no.": "6397 7309",
+          "Email": "clinic@promises.com.sg"
+        },
+        "geometry": {
+          "coordinates": [
+            103.84414926972545,
+            1.3206711135475189
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "TOUCH Mental Wellness/TOUCH Youth Intervention 162 Bukit Merah Central #05-3545 Singapore 150162",
+          "Service Provider": "TOUCH Community Services",
+          "Service/Programme(s)": "Counselling & Support Group;Do You M.I.N.D?; DigitalMINDSET; ENRICH; Upper Room; Youth Integrated Team (YIT)",
+          "Contact no.": "(Do You M.I.N.D?) 6377 0122 / (Counselling & Support Group, DigitalMINDSET, ENRICH, Upper Room) 1800 377 2252; (Youth Integrated Team (YIT)) 6730 9552 ",
+          "Email": "(Do You M.I.N.D?, ENRICH, Upper Room) mentalhealth@touch.org.sg; (DigitalMINDSET) youth.intervention@touch.org.sg; (ENRICH) children.intervention@touch.org.sg; (Youth Integrated Team (YIT)) mentalhealth@touch.org.sg"
+        },
+        "geometry": {
+          "coordinates": [
+            103.81738250712732,
+            1.2838642977084191
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "557 Woodlands Drive 53 #01-63, Singapore 730557",
+          "Service Provider": "Children’s Aid Society",
+          "Service/Programme(s)": "Melrose Care",
+          "Contact no.": "6970 0971",
+          "Email": "melrosecare@childrensaidsociety.org.sg"
+        },
+        "geometry": {
+          "coordinates": [
+            103.79674335459964,
+            1.432734983640529
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "Simei Centre 227 Simei Street 4 #01-50 Singapore 520227",
+          "Service Provider": "Brahm Centre Limited",
+          "Service/Programme(s)": "Mindfulness for Kids; Mindfulness for Teens; Mindfulness Parenting ",
+          "Contact no. ": "6786 0800",
+          "Email": "info@brahmcentre.com"
+        },
+        "geometry": {
+          "coordinates": [
+            103.9562425914529,
+            1.342079124596097
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {},
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ],
+              [
+                103.83896490066326,
+                1.3335685429241124
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "MacPherson Centre 55 Pipit Road #01-01 Singapore 370055",
+          "Service Provider": "Brahm Centre Limited",
+          "Service/Programme(s)": "Mindfulness for Kids; Mindfulness for Teens; Mindfulness Parenting",
+          "Contact no.": "6741 1131",
+          "Email": "info@brahmcentre.com"
+        },
+        "geometry": {
+          "coordinates": [
+            103.88838372878013,
+            1.3237387227867998
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "Tampines Centre 473 Tampines St 43 #01-94 Singapore 520473",
+          "Service Provider": "Brahm Centre Limited",
+          "Service/Programme(s)": "Mindfulness for Kids; Mindfulness for Teens; Mindfulness Parenting ",
+          "Contact no.": "6908 2122",
+          "Email": "info@brahmcentre.com"
+        },
+        "geometry": {
+          "coordinates": [
+            103.95314741658217,
+            1.359409265577753
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "38 Chai Chee Drive #01-177 Singapore 461038",
+          "Service Provider": "Filos Community Services",
+          "Service/Programme(s)": "ParentsPlus",
+          "Contact no.": "6242 5978",
+          "Email": "info@filos.sg"
+        },
+        "geometry": {
+          "coordinates": [
+            103.92565187288795,
+            1.3259346878115537
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "223D Compassvale Walk #01-673 Singapore 544223",
+          "Service Provider": "AMKFSC Community Services Ltd",
+          "Service/Programme(s)": "Psychological Services Unit (PSU)",
+          "Contact no.": "6312 8100",
+          "Email": "psureferral@amkfsc.org.sg"
+        },
+        "geometry": {
+          "coordinates": [
+            103.89739916334372,
+            1.389233709451986
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "329 Clementi Ave 2 #01-248 Singapore 120329",
+          "Service Provider": "SHINE Children and Youth Services",
+          "Service/Programme(s)": "Community Outreach Teams (CREST) Youth (ResiL!ence)",
+          "Contact no.": " 6778 6867 / 8788 3171 (for youths) / 8788 3167 (for caregivers)",
+          "Email": "resilience@shine.org.sg"
+        },
+        "geometry": {
+          "coordinates": [
+            103.76736895854219,
+            1.313073110114317
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "Social Service Hub @ Tiong Bahru 298 Tiong Bahru Road #10-06 Central Plaza Singapore 168730",
+          "Service Provider": "Singapore Association for Mental Health",
+          "Service/Programme(s)": "SAMH YouthReach",
+          "Contact no.": "6593 6424",
+          "Email": "samhyr@singnet.com.sg"
+        },
+        "geometry": {
+          "coordinates": [
+            103.82807060842879,
+            1.2863298103029024
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "72 Shrewsbury Road Singapore 307837",
+          "Service Provider": "Viriya Community Services",
+          "Service/Programme(s)": "Viriya Psychological Services (VPS)",
+          "Contact no.": "6256 1311",
+          "Email": "support@viriya.org.sg"
+        },
+        "geometry": {
+          "coordinates": [
+            103.8483781231239,
+            1.3180660275666582
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "Yishun 854 Yishun Ring Road #01-3511 Singapore 760854",
+          "Service Provider": "Clarity Singapore Limited",
+          "Service/Programme(s)": "Your Empowered Self (YES)",
+          "Contact no.": "6757 7990",
+          "Email": "ask@clarity- singapore.org"
+        },
+        "geometry": {
+          "coordinates": [
+            103.83748352496832,
+            1.4164934318225306
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "Agape Village 7A Lorong 8 Toa Payoh #04-01 Singapore 319264",
+          "Service Provider": "Clarity Singapore Limited",
+          "Service/Programme(s)": "Your Empowered Self (YES)",
+          "Contact no.": "6757 7990",
+          "Email": "ask@clarity- singapore.org"
+        },
+        "geometry": {
+          "coordinates": [
+            103.85699930275774,
+            1.3400699168933414
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "DEN @ JYC 554 Jurong West Street 42 #01-349 Singapore 640554",
+          "Service Provider": "Singapore Children's Society",
+          "Service/Programme(s)": "DEN @ JYC (Youth Drop-in Centre)",
+          "Contact no.": " 6563 0593",
+          "Email": "info@childrensociety.org.sg"
+        },
+        "geometry": {
+          "coordinates": [
+            103.71781807707555,
+            1.3532274733758811
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "GIG @ JYC 552 Jurong West Street 42 #01-321 Singapore 640552",
+          "Service Provider": "Singapore Children's Society",
+          "Service/Programme(s)": "GIG @ JYC (Youth Drop-in Centre)",
+          "Contact no.": "6566 6989/ 9880 9850",
+          "Email": "info@childrensociety.org.sg"
+        },
+        "geometry": {
+          "coordinates": [
+            103.71776028543542,
+            1.3527508616760429
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "ROUNDBOX @ CHILDREN'S SOCIETY 122 Toa Payoh Lorong 2 #01-06 Singapore 310122",
+          "Service Provider": "Singapore Children's Society",
+          "Service/Programme(s)": "ROUNDBOX @ CHILDREN'S SOCIETY (Youth Drop-in Centre)",
+          "Contact no.": "6259 3735/ 9859 7104",
+          "Email": "info@childrensociety.org.sg"
+        },
+        "geometry": {
+          "coordinates": [
+            103.84633138880253,
+            1.3398235399265985
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "THE FORT @ CHILDREN'S SOCIETY Radin Mas Community Club, 51 Telok Blangah Crescent, #05-01 Singapore 098917",
+          "Service Provider": "Singapore Children's Society",
+          "Service/Programme(s)": "THE FORT @ CHILDREN'S SOCIETY (Youth Drop-in Centre)",
+          "Contact no.": "6276 5077/ 9459 5681",
+          "Email": "info@childrensociety.org.sg"
+        },
+        "geometry": {
+          "coordinates": [
+            103.81976540064551,
+            1.2758013482984865
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "VOX @ CHILDREN'S SOCIETY 44 Chai Chee Street #01-108 Singapore 461044",
+          "Service Provider": "Singapore Children's Society",
+          "Service/Programme(s)": "VOX @ CHILDREN'S SOCIETY (Youth Drop-in Centre)",
+          "Contact no.": "6443 4139/ 9069 8475",
+          "Email": "info@childrensociety.org.sg"
+        },
+        "geometry": {
+          "coordinates": [
+            103.92561818787169,
+            1.3290134344888855
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "145 Simei Street 2 #01-06 Singapore 520145",
+          "Service Provider": "Fei Yue Community Services",
+          "Service/Programme(s)": "Community Outreach Teams (CREST) Youth Services",
+          "Email": "ec2sg@fycs.org"
+        },
+        "geometry": {
+          "coordinates": [
+            103.95552212176705,
+            1.3447789564258414
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "Orchard Shopping Centre 321 Orchard Road #08-03 Singapore 238866 (beside 313@Somerset)",
+          "Service Provider": "The Therapy Room",
+          "Service/Programme(s)": "Healing Hearts",
+          "Contact no.": "6467 8903",
+          "Email": "contact@thetherapyroom.com.sg"
+        },
+        "geometry": {
+          "coordinates": [
+            103.83788569108714,
+            1.3015396728577855
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "510 Thomson Road #15-03 SLF Building Singapore 298135",
+          "Service Provider": "Annabelle Psychology",
+          "Service/Programme(s)": "Annabelle Kids;  Early Intervention Programme; Multi-Disciplinary Intake; Art Psychotherapy;",
+          "Contact no.": " (Annabelle Kids;  Early Intervention Programme; Multi-Disciplinary Intake) 8189 3820 / (Art Psychotherapy) 8202 3385",
+          "Email": " (Annabelle Kids;  Early Intervention Programme; Multi-Disciplinary Intake) appointments@akids.sg; (Art Psychotherapy) appointments@apsy.sg"
+        },
+        "geometry": {
+          "coordinates": [
+            103.83884710995761,
+            1.3337566965128929
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "2 Orchard Link Hubquarters, #04-01 Singapore 237978",
+          "Service Provider": "Limitless Ltd",
+          "Service/Programme(s)": "Community Outreach Teams (CREST) Youth; Counselling and Case Management",
+          "Email": "hello@limitless.sg"
+        },
+        "geometry": {
+          "coordinates": [
+            103.83601199734068,
+            1.3010937980827038
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "59 Ubi Ave 1, Bizlink Centre #04-12 Singapore 408938",
+          "Service Provider": "Singapore Association for Mental Health (SAMH SAY-IT)",
+          "Service/Programme(s)": "Youth Integrated Team (YIT)",
+          "Email": "samhsayit@samhealth.org.sg"
+        },
+        "geometry": {
+          "coordinates": [
+            103.8948218184538,
+            1.3245872399542122
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "491B River Valley Road, #04-01 Valley Point Office Tower Singapore 248373",
+          "Service Provider": "The Center for Psychology",
+          "Service/Programme(s)": "Art Psychotherapy; Child and Adolescent Counseling",
+          "Contact no.": "6733 2893",
+          "Email": "contact@center4psy.com"
+        },
+        "geometry": {
+          "coordinates": [
+            103.82685599999945,
+            1.2930419108441242
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "51 Cuppage Road #03-03 Singapore 229469",
+          "Service Provider": "The Singapore Counselling Centre",
+          "Service/Programme(s)": "Children and Youth Counselling",
+          "Contact no.": "6339 5411",
+          "Email": "counselling@scc.sg"
+        },
+        "geometry": {
+          "coordinates": [
+            103.84030573872741,
+            1.3028997338844448
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "229 Mountbatten Road, Mountbatten Square #02-32 Singapore 398007",
+          "Service Provider": "Kids Therapy",
+          "Service/Programme(s)": "Child Therapy",
+          "Contact no.": "8322 8861",
+          "Email": "sam@kidstherapy.sg"
+        },
+        "geometry": {
+          "coordinates": [
+            103.8813273188108,
+            1.307405422206159
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "147 Potong Pasir Avenue 1 #02-83 Singapore 350147",
+          "Service Provider": "Calvary Community Care",
+          "Service/Programme(s)": "Counselling Services",
+          "Contact no.": "6281 1866",
+          "Email": "care@calvary.org.sg"
+        },
+        "geometry": {
+          "coordinates": [
+            103.8678888607256,
+            1.3318459213574272
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "REACH Counselling Centre @ Shunfu 307 Shunfu Road #01-137 Singapore 570307",
+          "Service Provider": "REACH Community Services Society",
+          "Service/Programme(s)": "Counselling Services",
+          "Contact no.": "6801 0730",
+          "Email": "counselling@reach.org.sg"
+        },
+        "geometry": {
+          "coordinates": [
+            103.83874720357397,
+            1.3505065791292026
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "20 Havelock Road #02-17 Central Square Singapore 059765",
+          "Service Provider": "Aequo Animo Counselling & Consultancy",
+          "Service/Programme(s)": "Counselling and Consultancy",
+          "Contact no.": "6428 8384",
+          "Email": "enquiries@aacc.com.sg"
+        },
+        "geometry": {
+          "coordinates": [
+            103.84329413839191,
+            1.2880695416492927
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "428 Pasir Ris Drive 6, #01-21 Singapore 510428",
+          "Service Provider": "CARE Singapore",
+          "Service/Programme(s)": "Hear4U",
+          "Contact no.": "6978 2728",
+          "Email": "lena@care.sg"
+        },
+        "geometry": {
+          "coordinates": [
+            103.95658794624961,
+            1.3694239743186927
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "35 Boon Lay Avenue Singapore 649962",
+          "Service Provider": "Childen’s Aid Society",
+          "Service/Programme(s)": "Melrose Home",
+          "Contact no.": "6466 5758",
+          "Email": "ask@childrensaidsociety.org.sg"
+        },
+        "geometry": {
+          "coordinates": [
+            103.71043455564188,
+            1.3491674302226784
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "600 Upper Thomson Road Block A Singapore 574421",
+          "Service Provider": "Methodist Welfare Services",
+          "Service/Programme(s)": "MWS Girls’ Residence",
+          "Contact no.": "6391 0567",
+          "Email": "MWSgr@mws.sg"
+        },
+        "geometry": {
+          "coordinates": [
+            103.82885574603324,
+            1.3739363796128572
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "Novena Medical Centre 10 Sinaran Drive #09-22 Singapore 307506",
+          "Service Provider": "PSALT Care",
+          "Service/Programme(s)": "Christian-based Peer Support Groups",
+          "Email": "info@psaltcare.com"
+        },
+        "geometry": {
+          "coordinates": [
+            103.84419263500718,
+            1.3207013934201086
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "10 Winstedt, #02-06 10 Winstedt Road Singapore 227977",
+          "Service Provider": "Annabelle Psychology",
+          "Service/Programme(s)": "Couples and Families Therapy",
+          "Contact no.": "8202 3385",
+          "Email": "appointments@apsy.sg"
+        },
+        "geometry": {
+          "coordinates": [
+            103.84188991065469,
+            1.3099614607083794
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "Novena Medical Centre 10 Sinaran Drive #11-16 Singapore 307506",
+          "Service Provider": "PSALT Care",
+          "Service/Programme(s)": "Depression and Bipolar Support Groups",
+          "Contact no.": "6205 5538",
+          "Email": "info@psaltcare.com"
+        },
+        "geometry": {
+          "coordinates": [
+            103.84425103933,
+            1.3207390636190581
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "Betsy’s PLACE 38 Jalan Lepas Singapore 537962",
+          "Service Provider": "PSALT Care",
+          "Service/Programme(s)": "Depression and Bipolar Support Groups",
+          "Contact no.": "6205 5538",
+          "Email": "info@psaltcare.com"
+        },
+        "geometry": {
+          "coordinates": [
+            103.88815768854221,
+            1.3558589572987643
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "The Adelphi 1 Coleman St #04-32 Singapore 179803",
+          "Service Provider": "Adelphi Psych Medicine Clinic",
+          "Service/Programme(s)": "Depression Treatment Services",
+          "Contact no.": "6250 9833"
+        },
+        "geometry": {
+          "coordinates": [
+            103.85124257720713,
+            1.2913179788838107
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "Institute of Mental Health Woodbridge Hospital 10 Buangkok View Singapore 539747",
+          "Service Provider": "Institute of Mental Health",
+          "Service/Programme(s)": "Early Psychosis Intervention Programme (EPIP); Mood Disorders Clinic",
+          "Contact no.": "6389 2000"
+        },
+        "geometry": {
+          "coordinates": [
+            103.88423632036404,
+            1.3837359143605852
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "Community Wellness Clinic, Queenstown Queenstown Polyclinic 580 Stirling Road, Level 4 Singapore 148958",
+          "Service Provider": "Institute of Mental Health",
+          "Service/Programme(s)": "Early Psychosis Intervention Programme (EPIP)",
+          "Contact no.": "6474 4872"
+        },
+        "geometry": {
+          "coordinates": [
+            103.80090802329437,
+            1.298585555252842
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "100 Turf Club Road #01-02S, Horsecity (Bukit Timah), Within Gallop Stable @ Horsecity Singapore 287992",
+          "Service Provider": "Rainbow Wish",
+          "Service/Programme(s)": "Equine-Assisted Wellbeing Programmes; Equine-Assisted Therapy (EAT)",
+          "Contact no.": "9085 0321",
+          "Email": "enquiry@rainbowwish.org"
+        },
+        "geometry": {
+          "coordinates": [
+            103.79647346289096,
+            1.3337283493196708
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "St John Headquarters 420 Beach Road Singapore 199582",
+          "Service Provider": "St John Singapore",
+          "Service/Programme(s)": "First Aid for Mental and Emotional Health",
+          "Contact no.": "6298 0300",
+          "Email": "firstaid@stjohn.org.sg"
+        },
+        "geometry": {
+          "coordinates": [
+            103.86320259874856,
+            1.301769927479171
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "331 North Bridge Road #22-01/06, Odeon Towers Singapore 188720",
+          "Service Provider": "EMCC",
+          "Service/Programme(s)": "The Grief Recovery Methods®",
+          "Contact no.": " 6788 8220",
+          "Email": "services@emcc.org.sg"
+        },
+        "geometry": {
+          "coordinates": [
+            103.85336186619617,
+            1.295959339021266
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "643 Ang Mo Kio Ave 5 #01-3001 Singapore 560643",
+          "Service Provider": "AMKFSC Community Services Ltd",
+          "Service/Programme(s)": "MindCare",
+          "Contact no.": "6553 6643",
+          "Email": "mindcare@amkfsc.org.sg"
+        },
+        "geometry": {
+          "coordinates": [
+            103.84065491935627,
+            1.3775092119846022
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "163 Tanglin Road #03-11, Tanglin Mall Singapore 247933",
+          "Service Provider": "Alliance Counselling",
+          "Service/Programme(s)": "Mindful Mums",
+          "Contact no.": "6836 0063",
+          "Email": "admin@alliancecounselling.com.sg"
+        },
+        "geometry": {
+          "coordinates": [
+            103.82349930645375,
+            1.3048500044265126
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "Club HEAL Head Office (West) 244 Bukit Batok East Ave 5 #01-02 Singapore 650244",
+          "Service Provider": "Club HEAL",
+          "Service/Programme(s)": "Our HEALing Voice",
+          "Contact no.": "6899 3463",
+          "Email": "sumaiyah@clubheal.org.sg"
+        },
+        "geometry": {
+          "coordinates": [
+            103.75724154126323,
+            1.3491756505634243
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Address": "176 Orchard Road #05-05 The Centrepoint Singapore 238843",
+          "Service Provider": "Resilience Collective",
+          "Service/Programme(s)": "Peer Support",
+          "Contact no.": "6932 2786",
+          "Email": "contactus@resilience.org.sg"
+        },
+        "geometry": {
+          "coordinates": [
+            103.83996814417935,
+            1.301498910898232
+          ],
+          "type": "Point"
+        }
+      }
+    ]
+  }
