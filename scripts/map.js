@@ -143,14 +143,14 @@ document.querySelector('#search-btn-modal').addEventListener('click', async () =
         const lat = parseFloat(parseFloat(programmes[i].geometry.coordinates[0]).toFixed(4));
         const lng = parseFloat(parseFloat(programmes[i].geometry.coordinates[1]).toFixed(4));
         const marker = L.marker([lng, lat])
-        marker.addTo(resultLayer)
+        // marker.addTo(resultLayer)
         marker.bindPopup(programmes[i].properties['Service/Programme(s)'])
         
-        // marker.addTo(programmesLayer);
+        marker.addTo(programmesLayer);
       }
     }
 
-    // programmesLayer.addTo(map);
+    programmesLayer.addTo(map);
     
   }
 
