@@ -1,5 +1,7 @@
 body {
-    font-family: 'Quicksand', sans-serif;
+    height: 100%;
+    width: 100%;
+    font-family: 'Quicksand', 'Nunito', sans-serif;
 }
 
 .offcanvas {
@@ -15,11 +17,12 @@ body {
     height: 70vh;
 }
 
-#map-container {
+.map-container {
     /* relative position can absolutely position search container by coordinates */
     position: relative;
-    width: 50vh;
+    width: auto;
     height: 70vh;
+    overflow: scroll;
 }
 
 #search-container {
