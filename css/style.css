@@ -1,3 +1,4 @@
+
 body {
     height: 100%;
     width: 100%;
@@ -6,6 +7,7 @@ body {
 
 .offcanvas {
     background-color:rgb(224, 252, 255);
+    z-index:330000;
 }
 
 .navbar {
@@ -41,6 +43,13 @@ body {
 }
 
 #search-btn {
+    color:rgb(255, 255, 255);
+    background-color:rgb(92, 123, 234);
+    border-color: rgb(92, 123, 234);
+    border-radius: 5px;
+}
+
+#search-btn-modal {
     color:rgb(255, 255, 255);
     background-color:rgb(92, 123, 234);
     border-color: rgb(92, 123, 234);
