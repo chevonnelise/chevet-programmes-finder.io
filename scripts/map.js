@@ -117,8 +117,13 @@ window.addEventListener('DOMContentLoaded', async () => {
   // mrtLayer.addTo(map);
 })
 
+let programmesLayer = L.layerGroup();
 
+// search for programmes
 document.querySelector('#search-btn-modal').addEventListener('click', async () => {
+  // clear previous markers
+  resultLayer.clearLayers()
+  
   // get user's input
   let userInput = document.querySelector('#search-terms-programmes').value
   
@@ -128,9 +133,6 @@ document.querySelector('#search-btn-modal').addEventListener('click', async () =
   // array of objects
   let programmes = programmesDataResponse.data.features
 
-  // to save results
-  let result = [];
-
   // loop through all programmes and get the result related to the user's search
   for (let i = 0; i < programmes.length; i++) {
     // check there is service/programmes
@@ -138,16 +140,19 @@ document.querySelector('#search-btn-modal').addEventListener('click', async () =
       // check that it includes user's input
       if (!(programmes[i].properties['Service/Programme(s)'].search(userInput) == -1)) {
         // plot the marker
-        console.log(programmes[i].properties['Service/Programme(s)'])
-
-        const lat = 
-
-
+        const lat = parseFloat(parseFloat(programmes[i].geometry.coordinates[0]).toFixed(4));
+        const lng = parseFloat(parseFloat(programmes[i].geometry.coordinates[1]).toFixed(4));
+        const marker = L.marker([lng, lat])
+        marker.addTo(resultLayer)
+        marker.bindPopup(programmes[i].properties['Service/Programme(s)'])
+        
+        // marker.addTo(programmesLayer);
       }
     }
+
+    // programmesLayer.addTo(map);
     
   }
-
 
 })
 
