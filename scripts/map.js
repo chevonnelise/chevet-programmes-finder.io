@@ -143,7 +143,7 @@ document.querySelector('#filtered-toggle').addEventListener('click', async () =>
         // plot the marker
         const lat = parseFloat(parseFloat(programmes[i].geometry.coordinates[0]).toFixed(4));
         const lng = parseFloat(parseFloat(programmes[i].geometry.coordinates[1]).toFixed(4));
-        const marker = L.marker([lng, lat])
+        const marker = L.marker([lng, lat], {icon:programmeIcon})
         // marker.addTo(resultLayer)
         marker.bindPopup(programmes[i].properties['Service/Programme(s)'])
         
