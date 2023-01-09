@@ -15,7 +15,7 @@
 <p>2) From the offcanvas navbar, users can click on the 'Need a listening ear?' link and quickly access the list of hotlines to call e.g. Crisis and Suicide Prevention.</p>
 
 ## Typography
-<p>The 'Raleway' font was chosen to provide a friendly-looking look and feel.</p>
+<p>The 'Quicksand' font was chosen to provide a friendly-looking look and feel.</p>
 
 <!-- ## Wireframe
 workspace/mental-well-being-programmes-finder/images/Figma UIUX.png -->
