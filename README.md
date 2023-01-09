@@ -17,8 +17,8 @@
 ## Typography
 <p>The 'Quicksand' font was chosen to provide a friendly-looking look and feel.</p>
 
-<!-- ## Wireframe
-workspace/mental-well-being-programmes-finder/images/Figma UIUX.png -->
+## Wireframe
+![alt text](http://url/to/)
 
 ## Technologies Used
 <ol>
