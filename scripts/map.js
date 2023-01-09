@@ -119,13 +119,6 @@ window.addEventListener('DOMContentLoaded', async () => {
 
 let programmesLayer = L.layerGroup();
 
-document.querySelector("#filtered-toggle").addEventListener("change", function(){
-  if(this.checked){
-    programmesLayer.addTo(map);
-  } else {
-    map.removeLayer(programmesLayer);
-  }
-})
 
 // search for programmes
 document.querySelector('#filtered-toggle').addEventListener('click', async () => {
@@ -164,3 +157,10 @@ document.querySelector('#filtered-toggle').addEventListener('click', async () =>
 
 })
 
+document.querySelector("#filtered-toggle").addEventListener("change", function(){
+  if(this.checked){
+    programmesLayer.addTo(map);
+  } else {
+    map.removeLayer(programmesLayer);
+  }
+})
