@@ -3,10 +3,8 @@
 
 <p>To access the live demo: </p>
 
-## UI/UX Design
+## UX/UI Design
 <p>This two page app website was designed to be mobile-responsive so that users can easily access it on-the-go and quickly reach out to someone in Singapore and seek help for their/loved ones' mental well-being.</p>
-
-## Wireframe
 
 
 ## Features
@@ -19,7 +17,10 @@
 ## Typography
 <p>The 'Raleway' font was chosen to provide a friendly-looking look and feel.</p>
 
-## Resources
+## Wireframe
+<a href="/workspace/mental-well-being-programmes-finder/images/Figma UIUX.png">
+
+## Technologies Used
 <ol>
 <li>HTML</li>
 <li>CSS</li>
@@ -27,11 +28,11 @@
 <li>Figma for wireframe and UI design</li>
 <li>Leaflet documentation for map</li>
 <li><a href="https://getbootstrap.com/">Bootstrap version 5.3</a> for layout and mobile-responsiveness</li>
+
+
+## Credits and Acknowledgement
 <li>Google fonts for typography</li>
 <li>Fontawesome for icons</li>
 <li>GeoJSON files to plot geographical coordinates of programme locations</li>
+<li>Flaticon for icons</li>
 </ol>
-
-
-https://www.markdownguide.org/basic-syntax/
-https://pages.github.com/
