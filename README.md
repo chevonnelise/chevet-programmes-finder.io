@@ -28,9 +28,10 @@
 <li>Figma for wireframe and UI design</li>
 <li>Leaflet documentation for map</li>
 <li><a href="https://getbootstrap.com/">Bootstrap version 5.3</a> for layout and mobile-responsiveness</li>
-
+</ol>
 
 ## Credits and Acknowledgement
+<ol>
 <li>Google fonts for typography</li>
 <li>Fontawesome for icons</li>
 <li>GeoJSON files to plot geographical coordinates of programme locations</li>
