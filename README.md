@@ -17,8 +17,8 @@
 ## Typography
 <p>The 'Raleway' font was chosen to provide a friendly-looking look and feel.</p>
 
-## Wireframe
-<a href="/workspace/mental-well-being-programmes-finder/images/Figma UIUX.png">
+<!-- ## Wireframe
+workspace/mental-well-being-programmes-finder/images/Figma UIUX.png -->
 
 ## Technologies Used
 <ol>
