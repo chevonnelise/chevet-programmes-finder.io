@@ -1,7 +1,7 @@
 # Mental Well-being Programmes Finder in Singapore
 <p>Over the past few years since 2019, our daily lives have been disrupted due to measures put in place to limit the spread of the COVID-19 virus. These measures such as increasing acceptance of work-from-home schedules has shifted our lifestyles and changed the way we communicate. As social creatures, the decrease in social interaction has taken a toll on people's mental well-being. Hence, there has been an increasing emphasis on managing and having good mental health. Although the increased awareness has reduced the stigma of people having poor mental health in Singapore's society, people still find it difficult to openly seek for help with their mental well-being. I created this finder so that people can be more empowered and independent in searching for the suitable resources available to help manage their mental well-being.</p>
 
-<p>To access the live demo: </p>
+<p>To access the live demo: https://github.com/chevonnelise/chevet-programmes-finder.io.git</p>
 
 ## UX/UI Design
 <p>This two page app website was designed to be mobile-responsive so that users can easily access it on-the-go and quickly reach out to someone in Singapore and seek help for their/loved ones' mental well-being.</p>
