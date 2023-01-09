@@ -18,7 +18,7 @@
 <p>The 'Quicksand' font was chosen to provide a friendly-looking look and feel.</p>
 
 ## Wireframe
-![alt text](http://url/to/)
+![alt text](http://url/to/FigmaUIUX.png)
 
 ## Technologies Used
 <ol>
